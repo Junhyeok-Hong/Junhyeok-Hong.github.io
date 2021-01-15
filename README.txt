@@ -28,6 +28,7 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 Credits:
 
 	Demo Images:
+		Avinash Kumar
 		Markus Spiske
 		Brad Pouncey
 		Luke Chesser
